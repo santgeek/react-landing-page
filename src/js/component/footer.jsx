@@ -5,7 +5,7 @@ export let Footer = () => {
         <div className="my-5">
             <footer className="bg-dark text-center text-white fixed-bottom">
                 <div className="p-3" >
-                    <span>Copyright © Your Website 2019</span>
+                    <span>Copyright © Your Website 2024</span>
                 </div>
             </footer>
         </div>

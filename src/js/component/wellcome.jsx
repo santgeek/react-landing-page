@@ -3,7 +3,7 @@ import React from "react"
 export let Wellcome = () => {
     return (
         <div>
-            <div className="container mt-2">
+            <div className="container-fluid mt-2">
                 <div className="ms-4 me-4 bg-light ps-4 pe-4 pb-3">
                     <h1 className="display-4">{wellcomeData.title}</h1>
                     <p className="lead">{wellcomeData.description}</p>
